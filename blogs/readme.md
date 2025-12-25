@@ -2,6 +2,7 @@
 
 This is a place to hold blog entries that we come across created by people using nushell.
 
+- https://skywork.ai/skypage/en/nushell-mcp-server-ai-agents/1981558516847054848/
 - https://blog.logrocket.com/exploring-nushell-rust-powered-cross-platform-shell/
 - https://itsfoss.com/nushell/
 - https://www.linux.pl/2022/05/17/nushell-powloka-z-nowym-pomyslem/
